@@ -1,6 +1,8 @@
 # dinguschan's worldguessr cheating bookmarklet
 
-uh yeah i had to definitively crush my friend in worldguessr. dw i revealed it and played legit afterwards (and lost). anyways. this bookmarklet helps u cheat in a ton of Geoguesser-type web games
+uh yeah i had to definitively crush my friend in worldguessr, but dw i revealed it and played legit afterwards (and lost). anyways. this bookmarklet helps u cheat in a ton of Geoguesser-type games, as long as they use the Google Maps api. it works on https://www.worldguessr.com/, https://openguessr.com/, and probably a few others. anyways heres a demo video:
+
+https://github.com/user-attachments/assets/c1d90c1a-4f0c-4ee5-b096-26fa803469ea
 
 ## features
 
