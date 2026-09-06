@@ -14,7 +14,7 @@ uh yeah i had to definitively crush my friend in worldguessr. dw i revealed it a
 
 1. create a new bookmark in your browser
 2. set the name to Worldguessr Cheat or whatever you please
-3. copy the code block below or in autoclicker.js and paste it into the URL or location field:
+3. copy the code block below or in bookmarklet.js and paste it into the URL or location field:
 4. ur done, click on your new bookmark on your desired website to open the interface and use it
 
 ```javascript
